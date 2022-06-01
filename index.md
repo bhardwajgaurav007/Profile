@@ -9,12 +9,16 @@ using 2D CNN, 3D CNN, Temporal-Spation detection etc. Wishing you a very happy l
 
 <center><img src="assets/img/anomaly.jpg "/></center>
 
+##
+
 ## Anomaly Detection
 
-> The Model has been trained using 20k+ actual images from Path Lab
+The Model has been trained using 20k+ actual images from Path Lab
 The Model provides an accuracy of around 90% in terms of detecting Anomaly after running detection on Dicom images
 
 <center><img src="assets/img/phase.jpg "/></center>
+
+##
 
 ## Surgical Phase Detection
 
