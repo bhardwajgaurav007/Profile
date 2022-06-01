@@ -1,20 +1,13 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Welcome to my Projects Website**
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Deep Learning Projects - Computer Vision
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Thanks for visiting my website. Here I have listed Healthcare related problems and their solutions using state of the art algorithm. You can find working software code
+using 2D CNN, 3D CNN, Temporal-Spation detection etc. Wishing you a very happy learning
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+ ## Anomaly Detection
 
 > This is a blockquote following a header.
 >
